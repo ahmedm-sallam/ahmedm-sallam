@@ -32,4 +32,4 @@ Skills: Python / Machine Learning / C++ / Java
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahmedm-sallam)  
 
-![Profile views](![](https://komarev.com/ghpvc/?ahmedm-sallam=your-github-ahmedm-sallam))  
+![Profile views](![]![](https://komarev.com/ghpvc/?username=ahmedm-sallam))  
