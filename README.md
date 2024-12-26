@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedm-sallam" alt="ahmedm-sallam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/x_sallam_x" target="blank"><img src="https://img.shields.io/twitter/follow/x_sallam_x?logo=twitter&style=for-the-badge" alt="x_sallam_x" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/x_sallam_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x_sallam_x" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedm-sallam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedm-sallam" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmedmsallamibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmedmsallamibrahim" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_shadow_assassin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_shadow_assassin_" height="30" width="40" /></a>
