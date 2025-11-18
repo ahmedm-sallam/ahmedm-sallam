@@ -1,19 +1,3 @@
-Perfect — here is your **complete, fully-animated, professional, clean, and powerful GitHub README**.
-
-🔥 It includes:
-✔ Animated banners
-✔ Cyber & neon effects
-✔ GitHub trophies
-✔ Stats, streaks, activity graph
-✔ Animated snakes
-✔ Tools icons
-✔ GIF sections
-✔ Professional project highlights
-
-This is a **copy-paste ready** `README.md`.
-
----
-
 # 🌌 **Ahmed Mohamed Sallam**
 
 <div align="center">
@@ -63,14 +47,176 @@ This is a **copy-paste ready** `README.md`.
   <img src="https://media.tenor.com/4ry-7sH2QbkAAAAC/studying.gif" width="500">
 </div>
 
+Here is your **animated + icon-enhanced + modern** Skills section.
+Everything is still categorized professionally, but now with **animations, banners, icons, and moving elements**.
+
+This is **copy–paste ready** for your README:
+
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️ **Skills & Technologies (Animated Edition)**
+
+---
+
+# 🚀 **Programming Languages**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,git,github,docker,linux,mysql,postgres,tensorflow,pytorch,fastapi,flask,spring,azure,vscode,idea&perline=10" />
+
+### **Animated Icons**
+
+<img src="https://skillicons.dev/icons?i=cpp" width="55">
+<img src="https://skillicons.dev/icons?i=c" width="55">
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="55">
+<img src="https://skillicons.dev/icons?i=java" width="55">
+<img src="https://skillicons.dev/icons?i=cs" width="55">
+<img src="https://skillicons.dev/icons?i=go" width="55">
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="500">
+
 </div>
 
+---
+
+# 🧱 **Backend Development**
+
+<div align="center">
+
+### **Icons**
+
+<img src="https://skillicons.dev/icons?i=spring" width="55">
+<img src="https://skillicons.dev/icons?i=java" width="55">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55">
+<img src="https://skillicons.dev/icons?i=flask" width="55">
+<img src="https://skillicons.dev/icons?i=dotnet" width="55">
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+
+</div>
+
+---
+
+# 🗄️ **Databases**
+
+<div align="center">
+
+### **Icons**
+
+<img src="https://skillicons.dev/icons?i=postgres" width="55">
+<img src="https://skillicons.dev/icons?i=mysql" width="55">
+<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="55"> <!-- SQL Server -->
+<img src="https://skillicons.dev/icons?i=sqlite" width="55">
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
+
+</div>
+
+---
+
+# 🤖 **Machine Learning & NLP**
+
+<div align="center">
+
+### **Icons**
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="55">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55">
+<img src="https://skillicons.dev/icons?i=python" width="55">
+
+### Extra tools (non-skillicons):
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55">
+<img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="55"> <!-- HuggingFace -->
+<img src="https://seeklogo.com/images/N/nltk-logo-72406CB100-seeklogo.com.png" width="55">
+<img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/img/favicon.png" width="55">
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/2wh22xT1B0Yo0/giphy.gif" width="500">
+
+</div>
+
+---
+
+# 📊 **Data Analysis**
+
+<div align="center">
+
+### **Icons**
+
+<img src="https://img.icons8.com/?size=100&id=38794&format=png&color=000000" width="55"> <!-- NumPy -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55">
+<img src="https://matplotlib.org/_static/logo2_compressed.svg" width="55">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55">
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/FsqI2p59b6YQAL5WuU/giphy.gif" width="500">
+
+</div>
+
+---
+
+# 🐳 **DevOps & Cloud**
+
+<div align="center">
+
+### **Icons**
+<img src="https://skillicons.dev/icons?i=azure" width="55">
+<img src="https://skillicons.dev/icons?i=AWS" width="55">
+<img src="https://skillicons.dev/icons?i=docker" width="55">
+<img src="https://skillicons.dev/icons?i=github" width="55">
+<img src="https://skillicons.dev/icons?i=git" width="55">
+<img src="https://skillicons.dev/icons?i=git" width="55">
+<img src="https://skillicons.dev/icons?i=nginx" width="55">
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500">
+
+</div>
+
+---
+
+# 💻 **Operating Systems**
+
+<div align="center">
+
+### **Icons**
+
+<img src="https://skillicons.dev/icons?i=linux" width="55">
+<img src="https://skillicons.dev/icons?i=windows" width="55">
+
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/kd7KfEQWl2jQ7QZp2s/giphy.gif" width="400">
+
+</div>
+
+---
+
+# 🧰 **Developer Tools**
+
+<div align="center">
+
+### **Icons**
+
+<img src="https://skillicons.dev/icons?i=vscode" width="55">
+<img src="https://skillicons.dev/icons?i=idea" width="55">
+<img src="https://skillicons.dev/icons?i=bash" width="55">
+<img src="https://skillicons.dev/icons?i=maven" width="55">
+
+### **Animated Banner**
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+
+</div>
 ---
 
 # 📈 GitHub Stats
@@ -138,23 +284,6 @@ This is a **copy-paste ready** `README.md`.
 
 🔗 Paper: [https://aclanthology.org/2025.arabicnlp-sharedtasks.10](https://aclanthology.org/2025.arabicnlp-sharedtasks.10)
 
----
-
-# 🎨 Animated Banners
-
-### Coding Aesthetic
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-
-### Matrix Vibes
-
-<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="100%">
-
-### Cyberpunk
-
-<img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100%">
-
----
 
 # 💬 Quote of the Day
 
