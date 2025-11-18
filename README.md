@@ -1,9 +1,5 @@
 # 🌌 **Ahmed Mohamed Sallam**
 
-<div align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kid.gif" width="600" />
-</div>
-
 ---
 
 <div align="center">
@@ -15,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ahmedm-sallam/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedm-sallam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -27,7 +23,6 @@
 </div>
 
 ---
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -47,21 +42,11 @@
 🧠 Competitive Programmer (200+ Problems)  
 📚 Published Researcher – ACL 2025  
 ```
-
-<div align="center">
-  <img src="https://media.tenor.com/4ry-7sH2QbkAAAAC/studying.gif" width="500">
-</div>
----
-
 # 🛠️ **Skills & Technologies**
 
----
-
-# 🚀 **Programming Languages**
+## 🚀 **Programming Languages**
 
 <div align="center">
-
-### **Animated Icons**
 
 <img src="https://skillicons.dev/icons?i=cpp" width="55">
 <img src="https://skillicons.dev/icons?i=c" width="55">
@@ -72,44 +57,29 @@
 
 </div>
 ---
-
 # 🧱 **Backend Development**
 
 <div align="center">
-
-### **Icons**
-
 <img src="https://skillicons.dev/icons?i=spring" width="55">
 <img src="https://skillicons.dev/icons?i=java" width="55">
 <img src="https://skillicons.dev/icons?i=fastapi" width="55">
 <img src="https://skillicons.dev/icons?i=flask" width="55">
 <img src="https://skillicons.dev/icons?i=dotnet" width="55">
-
-### **Animated Banner**
-
 </div>
-
 ---
 
 # 🗄️ **Databases**
-
 <div align="center">
-
-### **Icons**
-
 <img src="https://skillicons.dev/icons?i=postgres" width="55">
 <img src="https://skillicons.dev/icons?i=mysql" width="55">
 <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="55"> <!-- SQL Server -->
 <img src="https://skillicons.dev/icons?i=sqlite" width="55">
-
 </div>
 ---
 
 # 🤖 **Machine Learning & NLP**
 
 <div align="center">
-
-### **Icons**
 
 <img src="https://skillicons.dev/icons?i=pytorch" width="55">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55">
@@ -128,22 +98,16 @@
 # 📊 **Data Analysis**
 
 <div align="center">
-
-### **Icons**
-
 <img src="https://img.icons8.com/?size=100&id=38794&format=png&color=000000" width="55"> <!-- NumPy -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55">
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="55">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55">
-
 </div>
 ---
 
 # 🐳 **DevOps & Cloud**
 
 <div align="center">
-
-### **Icons**
 <img src="https://skillicons.dev/icons?i=azure" width="55">
 <img src="https://skillicons.dev/icons?i=AWS" width="55">
 <img src="https://skillicons.dev/icons?i=docker" width="55">
@@ -151,34 +115,22 @@
 <img src="https://skillicons.dev/icons?i=git" width="55">
 <img src="https://skillicons.dev/icons?i=git" width="55">
 <img src="https://skillicons.dev/icons?i=nginx" width="55">
-
 </div>
 ---
-
 # 💻 **Operating Systems**
-
 <div align="center">
-
-### **Icons**
-
 <img src="https://skillicons.dev/icons?i=linux" width="55">
 <img src="https://skillicons.dev/icons?i=windows" width="55">
-
 </div>
-
 ---
 
 # 🧰 **Developer Tools**
 
 <div align="center">
-
-### **Icons**
-
 <img src="https://skillicons.dev/icons?i=vscode" width="55">
 <img src="https://skillicons.dev/icons?i=idea" width="55">
 <img src="https://skillicons.dev/icons?i=bash" width="55">
 <img src="https://skillicons.dev/icons?i=maven" width="55">
-
 </div>
 ---
 
@@ -210,52 +162,6 @@
 </div>
 
 ---
-
-# 🚀 Featured Projects
-
-## 🔹 **Al-Maqraa — Quranic Speech Recognition Platform**
-
-**Technologies:** FastAPI · TensorFlow · PyTorch · Azure · Docker
-
-✔ Built CTC-based RNN & QuartzNet models
-
-✔ Achieved **85% transcription accuracy**
-
-✔ Deployed on **HF Spaces + Azure App Service**
-
-🔗 Live: [https://al-maqraa.onrender.com](https://al-maqraa.onrender.com)
-
----
-
-## 🔹 **Payment Gateway Backend – Spring Boot**
-
-**Technologies:** Spring Boot · Java 17 · JPA · Swagger
-
-✔ Layered architecture
-
-✔ Role-based auth + CSRF
-
-✔ Global exception handler
-
-✔ Fully tested with JUnit
-
-🔗 Repo: [https://github.com/ahmedm-sallam/payment-getaway-services](https://github.com/ahmedm-sallam/payment-getaway-services)
-
----
-
-# 📚 Latest Publication (ACL 2025)
-
-### 🥇 BERENSE — Arabic Authorship Identification
-
-✔ Ranked **1st Place** in AraGenEval
-
-✔ Ensemble of AraBERT, CAMeLBERT, XLM-R + GATE-AraBERT
-
-✔ Scored **90% Macro-F1**
-
-🔗 Paper: [https://aclanthology.org/2025.arabicnlp-sharedtasks.10](https://aclanthology.org/2025.arabicnlp-sharedtasks.10)
-
-----------
 
 # 💬 Quote of the Day
 
