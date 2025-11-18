@@ -53,7 +53,7 @@
 </div>
 ---
 
-# 🛠️ **Skills & Technologies (Animated Edition)**
+# 🛠️ **Skills & Technologies**
 
 ---
 
