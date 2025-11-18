@@ -8,9 +8,15 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&color=00F7FF\&center=true\&vCenter=true\&width=900\&lines=Machine+Learning+Engineer;Software+Engineer;Deep+Learning+Researcher;Backend+Developer;Competitive+Programmer;Published+ACL+Researcher;Always+Learning...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&color=00F7FF\&center=true\&vCenter=true\&width=900\&lines=Software+Engineer;Machine+Learning+Researcher;Competitive+Programmer;Always+Learning...)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ahmedm-sallam/count.svg" />
+</p>
 
 ---
 
@@ -30,7 +36,6 @@
   <a href="https://leetcode.com/ahmedmsallam"><img src="https://skillicons.dev/icons?i=leetcode" width="50"></a>
   <a href="https://codeforces.com/profile/_shadow_assassin_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="50"></a>
 </div>
-
 ---
 
 # 🚀 About Me
@@ -46,12 +51,6 @@
 <div align="center">
   <img src="https://media.tenor.com/4ry-7sH2QbkAAAAC/studying.gif" width="500">
 </div>
-
-Here is your **animated + icon-enhanced + modern** Skills section.
-Everything is still categorized professionally, but now with **animations, banners, icons, and moving elements**.
-
-This is **copy–paste ready** for your README:
-
 ---
 
 # 🛠️ **Skills & Technologies (Animated Edition)**
@@ -71,12 +70,7 @@ This is **copy–paste ready** for your README:
 <img src="https://skillicons.dev/icons?i=cs" width="55">
 <img src="https://skillicons.dev/icons?i=go" width="55">
 
-### **Animated Banner**
-
-<img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="500">
-
 </div>
-
 ---
 
 # 🧱 **Backend Development**
@@ -93,8 +87,6 @@ This is **copy–paste ready** for your README:
 
 ### **Animated Banner**
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-
 </div>
 
 ---
@@ -110,12 +102,7 @@ This is **copy–paste ready** for your README:
 <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="55"> <!-- SQL Server -->
 <img src="https://skillicons.dev/icons?i=sqlite" width="55">
 
-### **Animated Banner**
-
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
-
 </div>
-
 ---
 
 # 🤖 **Machine Learning & NLP**
@@ -128,19 +115,14 @@ This is **copy–paste ready** for your README:
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55">
 <img src="https://skillicons.dev/icons?i=python" width="55">
 
-### Extra tools (non-skillicons):
+### Extra tools:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55">
 <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="55"> <!-- HuggingFace -->
 <img src="https://seeklogo.com/images/N/nltk-logo-72406CB100-seeklogo.com.png" width="55">
 <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/img/favicon.png" width="55">
 
-### **Animated Banner**
-
-<img src="https://media.giphy.com/media/2wh22xT1B0Yo0/giphy.gif" width="500">
-
 </div>
-
 ---
 
 # 📊 **Data Analysis**
@@ -154,12 +136,7 @@ This is **copy–paste ready** for your README:
 <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="55">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55">
 
-### **Animated Banner**
-
-<img src="https://media.giphy.com/media/FsqI2p59b6YQAL5WuU/giphy.gif" width="500">
-
 </div>
-
 ---
 
 # 🐳 **DevOps & Cloud**
@@ -175,12 +152,7 @@ This is **copy–paste ready** for your README:
 <img src="https://skillicons.dev/icons?i=git" width="55">
 <img src="https://skillicons.dev/icons?i=nginx" width="55">
 
-### **Animated Banner**
-
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500">
-
 </div>
-
 ---
 
 # 💻 **Operating Systems**
@@ -191,11 +163,6 @@ This is **copy–paste ready** for your README:
 
 <img src="https://skillicons.dev/icons?i=linux" width="55">
 <img src="https://skillicons.dev/icons?i=windows" width="55">
-
-
-### **Animated Banner**
-
-<img src="https://media.giphy.com/media/kd7KfEQWl2jQ7QZp2s/giphy.gif" width="400">
 
 </div>
 
@@ -211,10 +178,6 @@ This is **copy–paste ready** for your README:
 <img src="https://skillicons.dev/icons?i=idea" width="55">
 <img src="https://skillicons.dev/icons?i=bash" width="55">
 <img src="https://skillicons.dev/icons?i=maven" width="55">
-
-### **Animated Banner**
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 
 </div>
 ---
@@ -253,21 +216,27 @@ This is **copy–paste ready** for your README:
 ## 🔹 **Al-Maqraa — Quranic Speech Recognition Platform**
 
 **Technologies:** FastAPI · TensorFlow · PyTorch · Azure · Docker
+
 ✔ Built CTC-based RNN & QuartzNet models
+
 ✔ Achieved **85% transcription accuracy**
+
 ✔ Deployed on **HF Spaces + Azure App Service**
 
 🔗 Live: [https://al-maqraa.onrender.com](https://al-maqraa.onrender.com)
-🔗 Portfolio: [https://ahmedm-sallam.github.io/Sallam-Portfolio/](https://ahmedm-sallam.github.io/Sallam-Portfolio/)
 
 ---
 
 ## 🔹 **Payment Gateway Backend – Spring Boot**
 
 **Technologies:** Spring Boot · Java 17 · JPA · Swagger
+
 ✔ Layered architecture
+
 ✔ Role-based auth + CSRF
+
 ✔ Global exception handler
+
 ✔ Fully tested with JUnit
 
 🔗 Repo: [https://github.com/ahmedm-sallam/payment-getaway-services](https://github.com/ahmedm-sallam/payment-getaway-services)
@@ -279,11 +248,14 @@ This is **copy–paste ready** for your README:
 ### 🥇 BERENSE — Arabic Authorship Identification
 
 ✔ Ranked **1st Place** in AraGenEval
+
 ✔ Ensemble of AraBERT, CAMeLBERT, XLM-R + GATE-AraBERT
+
 ✔ Scored **90% Macro-F1**
 
 🔗 Paper: [https://aclanthology.org/2025.arabicnlp-sharedtasks.10](https://aclanthology.org/2025.arabicnlp-sharedtasks.10)
 
+----------
 
 # 💬 Quote of the Day
 
@@ -291,23 +263,3 @@ This is **copy–paste ready** for your README:
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
 </div>
 
----
-
-# 🎯 Final Touch
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20For%20Visiting!&fontSize=50&fontAlign=50&fontColor=fff" />
-</div>
-
----
-
-# 🎉 Want me to improve it further?
-
-I can add:
-
-✨ Light/Dark mode toggle
-✨ Anime or gaming theme
-✨ Full professional portfolio version
-✨ Minimal clean version
-
-Just tell me: **“Make it more pro”** or **“Make a minimal version”**.
