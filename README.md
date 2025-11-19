@@ -1,20 +1,18 @@
 # 🌌 **Ahmed Mohamed Sallam**
 
----
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Machine+Learning+Researcher;Competitive+Programmer;Always+Learning...)
 
 </div>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedm-sallam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+
 
 # 🏆 GitHub Achievements
 
@@ -22,7 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ahmedm-sallam&theme=algolia&margin-w=15&margin-h=15&row=1&column=7" />
 </div>
 
----
+
 
 # 🌐 Connect With Me
 
@@ -33,7 +31,7 @@
   <a href="https://codeforces.com/profile/_shadow_assassin_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="50"></a>
 </div>
 
----
+
 
 # 🚀 About Me
 
@@ -58,8 +56,6 @@
 <img src="https://skillicons.dev/icons?i=go" width="55">
 </div>
 
----
-
 ## 🧱 **Backend Development**
 
 <div align="center">
@@ -69,8 +65,6 @@
 <img src="https://skillicons.dev/icons?i=dotnet" width="55">
 <img src="https://skillicons.dev/icons?i=java" width="55">
 </div>
-
----
 
 ## 🗄️ **Databases**
 
@@ -84,8 +78,6 @@
 
 <img src="https://skillicons.dev/icons?i=sqlite" width="55">
 </div>
-
----
 
 ## 🤖 **Machine Learning & NLP**
 
@@ -110,13 +102,9 @@
 <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/img/favicon.png" width="55">
 </div>
 
----
-
 # 📊 **Data Analysis**
 
 <div align="center">
-
-<!-- NumPy -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="55">
 
@@ -133,8 +121,6 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55">
 
 </div>
-
----
 
 # 🐳 **DevOps & Cloud**
 
@@ -153,8 +139,6 @@
 
 </div>
 
----
-
 # 💻 **Operating Systems**
 
 <div align="center">
@@ -165,8 +149,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="55">
 </div>
 
----
-
 # 🧰 **Developer Tools**
 
 <div align="center">
@@ -176,16 +158,12 @@
 <img src="https://skillicons.dev/icons?i=maven" width="55">
 </div>
 
----
-
 # 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedm-sallam&show_icons=true&theme=tokyonight" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedm-sallam&layout=compact&theme=tokyonight" width="49%">
 </div>
-
----
 
 # 🔥 Streak & Activity
 
@@ -197,15 +175,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedm-sallam&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
----
-
 # 🐍 Contribution Snake Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
-
----
 
 # 💬 Quote of the Day
 
