@@ -82,16 +82,10 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=pytorch" width="55">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55">
-
-<!-- Scikit-learn -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55">
-
-<!-- Hugging Face -->
-
+<img src="https://cdn.jsdelivr.net/gh/scikit-learn/scikit-learn@main/doc/logos/scikit-learn-logo.png" width="55">
 <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="55">
-<img src="https://www.nltk.org/images/nltk_logo.png" width="55">
-<img src="https://spacy.io/static/img/logo-light.svg" width="55">
+<img src="https://cdn.jsdelivr.net/gh/gabrielefronze/nltk-logo@master/nltk.png" width="55">
+<img src="https://cdn.jsdelivr.net/gh/explosion/spaCy@master/website/static/img/favicon.png" width="55">
 </div>
 
 # 📊 **Data Analysis**
@@ -106,8 +100,6 @@
   <!-- Seaborn (official site) -->
   <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="55">
 </div>
-
-
 
 # 🐳 **DevOps & Cloud**
 
@@ -141,8 +133,8 @@
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedm-sallam&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedm-sallam&layout=compact&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmedm-sallam&show_icons=true&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmedm-sallam&layout=compact&theme=tokyonight" width="49%">
 </div>
 
 # 🔥 Streak & Activity
