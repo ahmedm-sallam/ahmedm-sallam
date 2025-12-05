@@ -30,24 +30,8 @@
   <a href="https://linkedin.com/in/ahmedm-sallam">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50">
   </a>
-
-  <!-- Kaggle -->
-  <a href="https://kaggle.com/ahmedmsallamibrahim">
-    <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" width="50">
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/ahmedmsallam">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="50">
-  </a>
-
-  <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/_shadow_assassin_">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeforces/codeforces-plain.svg" width="50">
-  </a>
-
   <!-- Gmail (Dark Mode Safe PNG) -->
-  <a href="mailto:ahmedmsallam3@gmail.com">
+  <a href="mailto:ahmedm.sallamibrahim@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50">
   </a>
 
@@ -106,46 +90,31 @@
 <!-- Hugging Face -->
 
 <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="55">
-
-<!-- NLTK -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/NLTK_logo.png/800px-NLTK_logo.png" width="55">
-
-<!-- spaCy -->
-
-<img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/img/favicon.png" width="55">
+<img src="https://www.nltk.org/images/nltk_logo.png" width="55">
+<img src="https://spacy.io/static/img/logo-light.svg" width="55">
 </div>
 
 # 📊 **Data Analysis**
 
 <div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="55">
-
-<!-- Pandas -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="55">
-
-<!-- Matplotlib -->
-
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="55">
-
-<!-- Seaborn -->
-
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55">
-
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55">
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55">
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55">
+  <!-- Seaborn (official site) -->
+  <img src="https://seaborn.pydata.org/_static/logo-mark-lightbg.svg" width="55">
 </div>
+
+
 
 # 🐳 **DevOps & Cloud**
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=azure" width="55">
-
-<!-- AWS -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="55">
-
+<img src="https://skillicons.dev/icons?i=aws" width="55">
 <img src="https://skillicons.dev/icons?i=docker" width="55">
 <img src="https://skillicons.dev/icons?i=github" width="55">
 <img src="https://skillicons.dev/icons?i=git" width="55">
@@ -157,10 +126,7 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux" width="55">
-
-<!-- Windows -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg" width="55">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55">
 </div>
 
 # 🧰 **Developer Tools**
@@ -200,4 +166,3 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
 </div>
-```
