@@ -84,8 +84,6 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55">
 <img src="https://cdn.jsdelivr.net/gh/scikit-learn/scikit-learn@main/doc/logos/scikit-learn-logo.png" width="55">
 <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="55">
-<img src="https://cdn.jsdelivr.net/gh/gabrielefronze/nltk-logo@master/nltk.png" width="55">
-<img src="https://cdn.jsdelivr.net/gh/explosion/spaCy@master/website/static/img/favicon.png" width="55">
 </div>
 
 # 📊 **Data Analysis**
@@ -128,13 +126,6 @@
 <img src="https://skillicons.dev/icons?i=idea" width="55">
 <img src="https://skillicons.dev/icons?i=bash" width="55">
 <img src="https://skillicons.dev/icons?i=maven" width="55">
-</div>
-
-# 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmedm-sallam&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ahmedm-sallam&layout=compact&theme=tokyonight" width="49%">
 </div>
 
 # 🔥 Streak & Activity
