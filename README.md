@@ -25,11 +25,34 @@
 # 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ahmedm-sallam"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a>
-  <a href="https://kaggle.com/ahmedmsallamibrahim"><img src="https://skillicons.dev/icons?i=kaggle" width="50"></a>
-  <a href="https://leetcode.com/ahmedmsallam"><img src="https://skillicons.dev/icons?i=leetcode" width="50"></a>
-  <a href="https://codeforces.com/profile/_shadow_assassin_"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="50"></a>
+
+  <!-- LinkedIn (white) -->
+  <a href="https://linkedin.com/in/ahmedm-sallam">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50">
+  </a>
+
+  <!-- Kaggle (white) -->
+  <a href="https://kaggle.com/ahmedmsallamibrahim">
+    <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" width="50">
+  </a>
+
+  <!-- LeetCode (dark-mode style) -->
+  <a href="https://leetcode.com/ahmedmsallam">
+    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="50">
+  </a>
+
+  <!-- Codeforces (white icon for dark mode) -->
+  <a href="https://codeforces.com/profile/_shadow_assassin_">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="50">
+  </a>
+
+  <!-- Gmail (white / dark-mode) -->
+  <a href="mailto:ahmedmsallam3@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" style="filter: invert(1);">
+  </a>
+
 </div>
+
 
 
 
@@ -63,7 +86,6 @@
 <img src="https://skillicons.dev/icons?i=fastapi" width="55">
 <img src="https://skillicons.dev/icons?i=flask" width="55">
 <img src="https://skillicons.dev/icons?i=dotnet" width="55">
-<img src="https://skillicons.dev/icons?i=java" width="55">
 </div>
 
 ## 🗄️ **Databases**
@@ -71,12 +93,7 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postgres" width="55">
 <img src="https://skillicons.dev/icons?i=mysql" width="55">
-
-<!-- SQL Server -->
-
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="55">
-
-<img src="https://skillicons.dev/icons?i=sqlite" width="55">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55">
 </div>
 
 ## 🤖 **Machine Learning & NLP**
