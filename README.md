@@ -26,35 +26,32 @@
 
 <div align="center">
 
-  <!-- LinkedIn (white) -->
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ahmedm-sallam">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50">
   </a>
 
-  <!-- Kaggle (white) -->
+  <!-- Kaggle -->
   <a href="https://kaggle.com/ahmedmsallamibrahim">
     <img src="https://skillicons.dev/icons?i=kaggle&theme=dark" width="50">
   </a>
 
-  <!-- LeetCode (dark-mode style) -->
+  <!-- LeetCode -->
   <a href="https://leetcode.com/ahmedmsallam">
     <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="50">
   </a>
 
-  <!-- Codeforces (white icon for dark mode) -->
+  <!-- Codeforces -->
   <a href="https://codeforces.com/profile/_shadow_assassin_">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-plain.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeforces/codeforces-plain.svg" width="50">
   </a>
 
-  <!-- Gmail (white / dark-mode) -->
+  <!-- Gmail (Dark Mode Safe PNG) -->
   <a href="mailto:ahmedmsallam3@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" style="filter: invert(1);">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50">
   </a>
 
 </div>
-
-
-
 
 # 🚀 About Me
 
