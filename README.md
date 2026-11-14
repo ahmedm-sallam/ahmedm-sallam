@@ -1,4 +1,6 @@
-# Hi, I'm Ahmed Sallam
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Ahmed%20Sallam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20ML%2FNLP&descSize=18&descAlignY=58" alt="Ahmed Sallam banner" />
+
+## About me
 
 Software Engineer at C3S Software, based in Cairo, Egypt. I build backend systems and ML/NLP tools, and I contribute to open source.
 
