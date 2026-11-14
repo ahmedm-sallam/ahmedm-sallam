@@ -11,19 +11,33 @@ Software Engineer at C3S Software, based in Cairo, Egypt. I build backend system
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,go,cpp,spring,fastapi,dotnet,pytorch,tensorflow,sklearn,docker,kubernetes,azure,aws,postgres" alt="Tech stack" />
-</p>
+**Programming languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,go,cpp" alt="Programming languages" />
+
+**Tools and frameworks**
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,dotnet,postgres,mysql,elasticsearch,git,github,linux" alt="Tools and frameworks" />
+
+**DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,nginx,githubactions" alt="DevOps" />
+
+**AI**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" alt="AI" />
 
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedm-sallam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedm-sallam&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedm-sallam&theme=github_dark" alt="Profile details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedm-sallam&theme=github_dark" alt="Stats" />
+</p>
+<p>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedm-sallam&theme=github_dark" alt="Repos per language" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedm-sallam&theme=github_dark" alt="Most used languages" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=ahmedm-sallam&theme=github-dark&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedm-sallam&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 
 [LinkedIn](https://linkedin.com/in/ahmedm-sallam) · [Email](mailto:ahmedm.sallamibrahim@gmail.com)
