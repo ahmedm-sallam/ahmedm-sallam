@@ -1,41 +1,25 @@
-# Ahmed Mohamed Sallam
+# Hi, I'm Ahmed Sallam
 
-Software Engineer · ML Engineer (NLP/Speech) · Backend (Spring Boot, FastAPI) · Cairo, Egypt
+Software Engineer at C3S Software, based in Cairo, Egypt. I build backend systems and ML/NLP tools, and I contribute to open source.
 
-**📚 Published Researcher — ACL 2025**
-_(add your paper link here, e.g. `[Paper title](https://aclanthology.org/...)`)_
+- B.Sc. Computer Science, Cairo University (FCAI)
+- Published at ACL 2025
+- Learning Kubernetes through the [MLOps MENA Community](https://github.com/MLOpsMENACommunity) course, with [my tasks and notes](https://github.com/ahmedm-sallam/Kubernetes-Course-Tasks)
 
-🎓 B.Sc. Computer Science, Cairo University (FCAI) · 🧠 200+ competitive programming problems solved
+## Selected work
+
+| Project | Description |
+|---|---|
+| [fath-al-bari-api](https://github.com/ahmedm-sallam/fath-al-bari-api) | Public REST API for 7,234 hadiths with Arabic full-text search (Go) |
+| [islamweb-hadith-indexer](https://github.com/ahmedm-sallam/islamweb-hadith-indexer) | Scrapes and indexes Fath al-Bari into Elasticsearch (Python) |
+| [mcp-ollama-cli](https://github.com/ahmedm-sallam/mcp-ollama-cli) | Local AI chat CLI built on Ollama and the Model Context Protocol (Python) |
+| [payment-gateway-services](https://github.com/ahmedm-sallam/payment-gateway-services) | Spring Boot payment gateway API with Spring Security and OpenAPI (Java) |
+
+## Stack
+
+**Languages:** Python, Java, C#, Go, C++
+**Backend:** Spring Boot, FastAPI, .NET
+**ML:** PyTorch, TensorFlow, scikit-learn
+**Infra:** Docker, Kubernetes, Azure, AWS, PostgreSQL
 
 [LinkedIn](https://linkedin.com/in/ahmedm-sallam) · [Email](mailto:ahmedm.sallamibrahim@gmail.com)
-
----
-
-## Featured Projects
-
-| Project | What it is |
-|---|---|
-| [mcp-ollama-cli](https://github.com/ahmedm-sallam/mcp-ollama-cli) | Local AI chat CLI over Ollama using the Model Context Protocol — document tools, `@mention` context injection, no API key required |
-| [payment-gateway-services](https://github.com/ahmedm-sallam/payment-gateway-services) | Spring Boot payment-gateway REST API with OpenAPI/Swagger docs, Spring Security, and H2-backed testing |
-| [Text-Classification-using-RNN-and-Word-Embeddings](https://github.com/ahmedm-sallam/Text-Classification-using-RNN-and-Word-Embeddings) | Sentiment analysis on Amazon reviews with SimpleRNN and LSTM, custom embeddings, real-time prediction |
-| [E-Commerce-System](https://github.com/ahmedm-sallam/E-Commerce-System) | Java e-commerce system: product hierarchy, cart, checkout, and shipping, built around clean OOP design |
-| [AI-Connect4-Game-Agent](https://github.com/ahmedm-sallam/AI-Connect4-Game-Agent) | Connect Four with a Minimax-based AI opponent |
-| [TinyCompilerMagic](https://github.com/ahmedm-sallam/TinyCompilerMagic) | A small compiler for the TINY language, written in C++ |
-
-## Skills
-
-**Languages:** C++ · C · Python · Java · C# · Go
-**Backend:** Spring Boot · FastAPI · Flask · .NET
-**ML/DL:** PyTorch · TensorFlow/Keras · scikit-learn
-**Data:** NumPy · Pandas · Matplotlib · Seaborn
-**Databases:** PostgreSQL · MySQL · SQL Server
-**Cloud/DevOps:** Azure · AWS · Docker · Nginx · Git
-
----
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=ahmedm-sallam&label=Profile%20Views&color=0e75b6&style=flat)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedm-sallam&theme=tokyonight" width="70%">
-
-</div>
