@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Ahmed%20Sallam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20ML%2FNLP&descSize=18&descAlignY=58" alt="Ahmed Sallam banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Ahmed%20Mohamed%20Sallam&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20ML%2FNLP&descSize=18&descAlignY=58" alt="Ahmed Mohamed Sallam banner" />
 
 ## About me
 
