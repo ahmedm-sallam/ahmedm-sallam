@@ -3,7 +3,7 @@
 Software Engineer at C3S Software, based in Cairo, Egypt. I build backend systems and ML/NLP tools, and I contribute to open source.
 
 - B.Sc. Computer Science, Cairo University (FCAI)
-- Published at ACL 2025
+- Published at ArabicNLP 2025 (ACL Anthology): [BERENSE, a BERT-based ensembler for Arabic authorship identification](https://aclanthology.org/2025.arabicnlp-sharedtasks.10/)
 - Open to contributions: happy to collaborate on open-source projects in backend, ML/NLP and DevOps. Reach out or open an issue on any of my repos.
 
 ## Currently learning
