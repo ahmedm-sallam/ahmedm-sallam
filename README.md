@@ -43,6 +43,8 @@ Software Engineer at C3S Software, based in Cairo, Egypt. I build backend system
 
 <img src="https://streak-stats.demolab.com?user=ahmedm-sallam&theme=github-dark&hide_border=true" alt="GitHub streak" />
 
+<img src="https://komarev.com/ghpvc/?username=ahmedm-sallam&label=Profile%20views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+
 ## Contact
 
 <a href="https://linkedin.com/in/ahmedm-sallam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
