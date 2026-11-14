@@ -4,22 +4,26 @@ Software Engineer at C3S Software, based in Cairo, Egypt. I build backend system
 
 - B.Sc. Computer Science, Cairo University (FCAI)
 - Published at ACL 2025
-- Learning Kubernetes through the [MLOps MENA Community](https://github.com/MLOpsMENACommunity) course, with [my tasks and notes](https://github.com/ahmedm-sallam/Kubernetes-Course-Tasks)
 
-## Selected work
+## Currently learning
 
-| Project | Description |
-|---|---|
-| [fath-al-bari-api](https://github.com/ahmedm-sallam/fath-al-bari-api) | Public REST API for 7,234 hadiths with Arabic full-text search (Go) |
-| [islamweb-hadith-indexer](https://github.com/ahmedm-sallam/islamweb-hadith-indexer) | Scrapes and indexes Fath al-Bari into Elasticsearch (Python) |
-| [mcp-ollama-cli](https://github.com/ahmedm-sallam/mcp-ollama-cli) | Local AI chat CLI built on Ollama and the Model Context Protocol (Python) |
-| [payment-gateway-services](https://github.com/ahmedm-sallam/payment-gateway-services) | Spring Boot payment gateway API with Spring Security and OpenAPI (Java) |
+- Kubernetes, through the [MLOps MENA Community](https://github.com/MLOpsMENACommunity) course ([tasks and notes](https://github.com/ahmedm-sallam/Kubernetes-Course-Tasks))
 
 ## Stack
 
-**Languages:** Python, Java, C#, Go, C++
-**Backend:** Spring Boot, FastAPI, .NET
-**ML:** PyTorch, TensorFlow, scikit-learn
-**Infra:** Docker, Kubernetes, Azure, AWS, PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,go,cpp,spring,fastapi,dotnet,pytorch,tensorflow,sklearn,docker,kubernetes,azure,aws,postgres" alt="Tech stack" />
+</p>
+
+## GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedm-sallam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedm-sallam&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=ahmedm-sallam&theme=github-dark&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedm-sallam&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 
 [LinkedIn](https://linkedin.com/in/ahmedm-sallam) · [Email](mailto:ahmedm.sallamibrahim@gmail.com)
