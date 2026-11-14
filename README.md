@@ -4,6 +4,7 @@ Software Engineer at C3S Software, based in Cairo, Egypt. I build backend system
 
 - B.Sc. Computer Science, Cairo University (FCAI)
 - Published at ACL 2025
+- Open to contributions: happy to collaborate on open-source projects in backend, ML/NLP and DevOps. Reach out or open an issue on any of my repos.
 
 ## Currently learning
 
@@ -40,4 +41,7 @@ Software Engineer at C3S Software, based in Cairo, Egypt. I build backend system
 
 <img src="https://streak-stats.demolab.com?user=ahmedm-sallam&theme=github-dark&hide_border=true" alt="GitHub streak" />
 
-[LinkedIn](https://linkedin.com/in/ahmedm-sallam) · [Email](mailto:ahmedm.sallamibrahim@gmail.com)
+## Contact
+
+<a href="https://linkedin.com/in/ahmedm-sallam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ahmedm.sallamibrahim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
